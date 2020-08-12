@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""Elliot" Eva C. Ping"
+  name   : "Elliot Ping"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Lab manager, writer, libraryland expat. Lifelong Midwesterner, generalized enthusiast, and painfully human at all times."
   links:
