@@ -17,4 +17,4 @@ Research. Writing. [Neuroscience Outreach](https://www.neuroscienceoutreach.org/
 
 # Now #
 
-My /now is here. [Here](https://nownownow.com/about) is information about what a /now is. 
+My /now is [here](https://eecping.github.io/now). [Here](https://nownownow.com/about) is information about what a /now is. 
