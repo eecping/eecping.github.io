@@ -6,9 +6,11 @@ title: "About"
 
 I am a researcher and communicator excited about science for the public good.
 
-My academic background is in neuroscience, the history of science, and community engagement, and I have work experience in research, libraries, and writing, among others.
+My academic background is in neuroscience, the history of science, and community engagement, and I've worked in research, libraries, and writing, among other fields.
 
 Presently, I am the Lab Manager of the Social Cognitive Neuroscience Lab at The Ohio State University and a graduate student-at-large exploring topics in bioethics, policy, information science, and neuroscience. 
+
+More information about my professional life can be found on [my LinkedIn](https://www.linkedin.com/in/elliotping/). 
 
 ## What I Do 
 
