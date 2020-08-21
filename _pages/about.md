@@ -2,7 +2,10 @@
 permalink: /about/
 title: "About"
 ---
-## Who I Am 
+## About this site
+This is not a traditional blog; instead, it's an exercise in public learning and scholarship, closer to a mind garden or reading journal than to a collection of formal essays and polished thoughts. Any notes that you don't understand are likely not meant for you-- they're meant for me-- but I'm open to dialogue! If you want to chat about anything here, feel free to reach out to me at elliotping at gmail dot com. 
+
+## Who I am 
 
 I am a researcher and communicator excited about science for the public good.
 
@@ -12,7 +15,7 @@ Presently, I am the Lab Manager of the Social Cognitive Neuroscience Lab at The 
 
 More information about my professional life can be found on [my LinkedIn](https://www.linkedin.com/in/elliotping/). 
 
-## What I Do 
+## What I do 
 
 Research. Writing. [Neuroscience Outreach](https://www.neuroscienceoutreach.org/). [Data Science for the Public Good](https://www.codeforamerica.org/). 
 
