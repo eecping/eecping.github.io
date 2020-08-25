@@ -1,7 +1,7 @@
 ---
-title: "Evans () "
+title: "Evans, J.H. (2012) The History and Future of Bioethics: A Sociological View. Oxford University Press."
 date: 2020-08-20T10:30:02-05:00
-last_modified_at: 2020-08-23T14:20:02-05:00
+last_modified_at: 2020-08-24T20:20:02-05:00
 excerpt: "bioethics"
 categories:
   - books
